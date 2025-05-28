@@ -1,0 +1,65 @@
+
+body {
+    background: #f6f7fb;
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+}
+.cv-container {
+    max-width: 600px;
+    background: #fff;
+    margin: 32px auto 0 auto;
+    padding: 32px 26px 26px 26px;
+    border-radius: 14px;
+    box-shadow: 0 3px 22px rgba(22,54,80,0.10);
+}
+header {
+    border-bottom: 2px solid #d8dee9;
+    padding-bottom: 12px;
+    margin-bottom: 18px;
+    text-align: center;
+}
+header h1 {
+    font-size: 2.3rem;
+    color: #21336a;
+    margin: 0 0 8px 0;
+}
+header h2 {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #334e80;
+    margin: 0 0 4px 0;
+}
+header h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #557ac8;
+    margin: 0;
+}
+section {
+    margin-bottom: 22px;
+}
+section h4 {
+    color: #e83b3b;
+    margin-bottom: 7px;
+    margin-top: 0;
+    font-size: 1.09rem;
+    letter-spacing: .8px;
+}
+ul {
+    margin-top: 0;
+    padding-left: 18px;
+}
+.contacto ul,
+.habilidades ul,
+.idiomas ul {
+    margin-bottom: 0;
+}
+footer {
+    text-align: center;
+    color: #999;
+    font-size: 0.95rem;
+    margin-top: 26px;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
+}
